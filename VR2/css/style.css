@@ -749,10 +749,12 @@ form .row .form-wrap {
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0;
-	background-color: #444;
+    /*background-color: #444;*/
+    background: linear-gradient(60deg, #673AB7,#2196F3,#FF5722,#FFC107, #009688);
 	color: #999;
-	padding-top: 15px;
-    padding-bottom: 15px;
+	/*padding-top: 15px;
+    padding-bottom: 15px;*/
+    padding-top: 4px;
 }
 .topbar a {
     color: #999;
